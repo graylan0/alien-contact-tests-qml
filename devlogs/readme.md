@@ -1,3 +1,4 @@
+```
 Plugins
 •
 Enabled plugins:
